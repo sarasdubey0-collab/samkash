@@ -1,8 +1,7 @@
-# Discord
-git+https://github.com/Rapptz/discord.py.git
+# Discord (ONLY ONE version - stable)
+discord.py==2.3.2
 discord-ext-menus
 jishaku
-discord.py==2.3.2
 
 # Core
 aiohttp
