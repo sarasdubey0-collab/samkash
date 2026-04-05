@@ -1,31 +1,42 @@
+# Discord
 git+https://github.com/Rapptz/discord.py.git
-jishaku
 discord-ext-menus
-psutil==5.9.8
-requests
+jishaku
+
+# Core
+aiohttp
 aiosqlite
+python-dotenv
+typing-extensions
+
+# APIs & Requests
+requests
+httpx
+tenacity
+duckduckgo-search==6.3.6
+groq
+openai
+
+# Utilities
+psutil==5.9.8
+pytz
+python-dateutil
+tabulate
+colorama
+PyYAML
+
+# Files & Async
+aiofiles
+
+# AI / Text / Misc
 gtts
 langdetect
-python-dotenv
-PyYAML
-openai
-duckduckgo-search==6.3.6
-pillow>=10.2.0
-colorama
-chess
-groq
 sympy
-aiohttp
-pytz
-tabulate
 beautifulsoup4
-aiofiles
-python-dateutil
-tenacity
-httpx
-typing-extensions
+
+# Images
+pillow>=10.2.0
+
+# Extra
+chess
 flask
-aiosqlite
-python-dotenv
-aiohttp
-discord.py
