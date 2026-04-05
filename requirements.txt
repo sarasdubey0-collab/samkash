@@ -1,10 +1,10 @@
-# Discord (ONLY ONE version - stable)
-discord.py==2.3.2
+# Discord (DEV version for LayoutView support)
+git+https://github.com/Rapptz/discord.py.git
 discord-ext-menus
 jishaku
 
 # Core
-aiohttp
+aiohttp>=3.9.0
 aiosqlite
 python-dotenv
 typing-extensions
