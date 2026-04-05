@@ -1,0 +1,8 @@
+2026-04-05 05:06:06,519 ERROR:Error in command ticket category-add invoked by samaksh_. (1432416557249855498): emoji is a required argument that is missing.
+NoneType: None
+2026-04-05 05:08:56,147 ERROR:Error in command ticket add invoked by samaksh_. (1432416557249855498): user is a required argument that is missing.
+NoneType: None
+2026-04-05 05:09:05,588 ERROR:Error in command ticket add invoked by samaksh_. (1432416557249855498): Member "help" not found.
+NoneType: None
+2026-04-05 05:10:56,655 ERROR:Error in command tracking enable invoked by samaksh_. (1432416557249855498): feature is a required argument that is missing.
+NoneType: None
